@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📄 Know about my experiences [www.linkedin.com/in/itjosue02](www.linkedin.com/in/itjosue02)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/itjosue02)
 
 - ⚡ Fun fact **I build my first cross-platform apps without using a single line of code.**
 
