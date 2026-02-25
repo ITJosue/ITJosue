@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josue Valladares Escamilla</h1>
+<h1 align="center">Hi 👋, I'm Josue</h1>
 <h3 align="center">A passionate IT Professional from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itjosue&label=Profile%20views&color=1c71d8&style=flat" alt="itjosue" /> </p>
