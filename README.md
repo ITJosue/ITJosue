@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
-- 👨‍💻 All of my projects are available at [itjosue.github.io](itjosue.github.io)
+- 👨‍💻 All of my projects are available at [itjosue.github.io](https://itjosue.github.io/))
 
 - 💬 Ask me about **Flutter**
 
