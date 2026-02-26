@@ -2,7 +2,7 @@
 
 ### A passionate IT Professional from USA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ITJosue&label=Profile views&color=0e75b6&style=flat" alt="ITJosue" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itjosue&label=Profile%20views&color=1c71d8&style=flat" alt="itjosue" /> </p>
 
 - 🌱 I'm currently learning **HTML, CSS, and Javascript**
 
