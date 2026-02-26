@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ITJosue&label=Profile views&color=0e75b6&style=flat" alt="ITJosue" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ITJosue" alt="ITJosue" /></a> </p>
-
 - 🌱 I'm currently learning **HTML, CSS, and Javascript**
 
 - 💬 Ask me about **Flutter**
