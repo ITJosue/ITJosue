@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ITJosue&show_icons=true&locale=en" alt="ITJosue" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ITJosue&" alt="ITJosue" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ITJosue&border_radius=14&background=FFFFFF&border=E5E5EA&stroke=E5E5EA&ring=007AFF&fire=FF9500&currStreakNum=1C1C1E&sideNums=1C1C1E&currStreakLabel=1C1C1E&sideLabels=1C1C1E&dates=8E8E93&excludeDaysLabel=8E8E93" alt="ITJosue" /></p>
 
