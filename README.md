@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/itjosue02)
 
-- ⚡ Fun fact **I build my first cross-platform apps without using a single line of code.**
+- ⚡ Fun fact **I build my first cross-platform apps without using a writing line of code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
